@@ -32,4 +32,6 @@
 - VPS
   - [x] VPN сервер (черновой вариант)
   - [ ] Настройка сервера
+    - [x] https://xakep.ru/2022/02/08/vps-server-todo/
+    - [ ] VPN Wireguard server https://habr.com/ru/articles/738408/
     - [ ] Документировние для последующего воспроизведения
