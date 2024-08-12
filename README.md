@@ -14,10 +14,11 @@
     - [ ] Настройка Wireguard
       - [x] 1. Обновить роутер до версии 7.1+
       - [x] 2. Импортировать во вкладке Wireguard конфиг [wg.conf](./configs/wg.conf). Это создаст Interface и Peer
-      - [x] 3. Создать NAT правило. Видимо это нужно для корректной работы поверх PPoE провайдера https://dzen.ru/a/YlSlHeNcqySLSmCL (https://kiberlis.ru/mikrotik-wireguard-client/)
-      - [x] 4. Создать Route с `Dst. Address: 0.0.0.0/0` на `Gateway: wg (созданный на шаге 1)`. Включение/выключение управляет направлением трафика (через vpn или нет)
-      - [ ] 5. Создать разные таблицы маршрутизации - для обычного соединения и VPN. Иначе, при переключении на VPN кешированные запросы ходят по прежнему маршруту - через провайдера напрямую https://dzen.ru/a/YlSlHeNcqySLSmCL (https://kiberlis.ru/mikrotik-wireguard-client/)
-      - [ ] 6. Динамическое переключение канала на VPN, если контент заблокирован
+      - [x] 3. Создать Firewall-NAT правило. Видимо это нужно для корректной работы поверх PPoE провайдера https://dzen.ru/a/YlSlHeNcqySLSmCL (https://kiberlis.ru/mikrotik-wireguard-client/)
+      - [x] 4. Создать IP-Route с `Dst. Address: 0.0.0.0/0` на `Gateway: wg (созданный на шаге 1)`. Включение/выключение управляет направлением трафика (через vpn или нет)
+      - [x] 5. Создать IP-Addresses с Adress из диапазона Wireguard Server с Network из ip-адреса внутреннего ip адреса сервера (не endpoint)
+      - [ ] 6. Создать разные таблицы маршрутизации - для обычного соединения и VPN. Иначе, при переключении на VPN кешированные запросы ходят по прежнему маршруту - через провайдера напрямую https://dzen.ru/a/YlSlHeNcqySLSmCL (https://kiberlis.ru/mikrotik-wireguard-client/)
+      - [ ] 7. Динамическое переключение канала на VPN, если контент заблокирован
   - [ ] Обход DPI (каким-либо образом)
   - [ ] Блокировка рекламы
 - NAS
