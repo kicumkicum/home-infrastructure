@@ -130,6 +130,15 @@
 - ТВ Бокс
   - [x] Корректная работа YouTube
 - Прочие клиенты
+- Game Statiion
+  - [x] Steam Deck
+    - [x] Dock Station
+    - [ ] External GPU over OCuLink
+      - Adapter m2 https://aliexpress.ru/item/1005006827709738.html
+      - GPU dock station https://market.yandex.ru/product--ocup4v2-oculink-gpu-dock-redriver-chip-support-pci-e-4-0x4-dopolnitelno-nvme-m-2-dlia-adaptera-oculink-vneshniaia-graficheskaia-karta-dlia-noutbuka
+      - PSU SFX https://market.yandex.ru/product--blok-pitaniia-750w-1stplayer-sfx-ps-750sfx/1489407774
+      - GPU min RX 6650 XT
+      - MicroSD 1TB https://market.yandex.ru/product--sd-karta-sandisk-ultra-sdsquac-1t00-gn6mn/95455943?hid=90401
 
 ## Чудово
 
