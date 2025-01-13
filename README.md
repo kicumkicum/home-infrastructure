@@ -140,6 +140,23 @@
       - [x] GPU min RX 6650 XT
       - [x] MicroSD 1TB https://market.yandex.ru/product--sd-karta-sandisk-ultra-sdsquac-1t00-gn6mn/95455943?hid=90401
       - [ ] Steam Deck BackPlate
+- HomeLab
+  - [ ] Стенд https://anbik.ru/setevye-skafy/item-3092/
+  - [ ] Роутер
+  - [ ] NAS
+  - [ ] ИБП
+  - [ ] Патч-панель rj45
+  - [ ] Патч-панель прочее (hdmi, usb, кнопки, oculink)
+  - [ ] Сетевой фильтр
+  - [ ] Разводка сети
+  - [ ] Мини ПК для виртуалок, которые не заводятся на NAS
+  - [ ] Может быть Micro-ATX/Mini-ITX ПК
+  - [ ] Видеокарта для AI и прочего
+    - [ ] Подключение oculink для разных потребителей
+      - [ ] МиниПК
+      - [ ] RaspberryPi
+  - [ ] RaspberryPi/BananaPi
+  - [ ] Nvidia jetson orin nano super developer kit https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/
 
 ## Чудово
 
