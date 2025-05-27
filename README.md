@@ -143,25 +143,30 @@
     - [ ] External GPU over OCuLink
       - [ ] Adapter m2 https://aliexpress.ru/item/1005006827709738.html
       - [ ] GPU dock station https://market.yandex.ru/product--ocup4v2-oculink-gpu-dock-redriver-chip-support-pci-e-4-0x4-dopolnitelno-nvme-m-2-dlia-adaptera-oculink-vneshniaia-graficheskaia-karta-dlia-noutbuka
-      - [ ] PSU SFX https://market.yandex.ru/product--blok-pitaniia-750w-1stplayer-sfx-ps-750sfx/1489407774
+      - [ ] ~~PSU SFX https://market.yandex.ru/product--blok-pitaniia-750w-1stplayer-sfx-ps-750sfx/1489407774~~
+      - [x] PSU TFX 450W Accord ACC-TFX450 (20+4pin) APFC 80mm fan 3xSATA RTL
       - [x] GPU min RX 6650 XT
       - [x] MicroSD 1TB https://market.yandex.ru/product--sd-karta-sandisk-ultra-sdsquac-1t00-gn6mn/95455943?hid=90401
       - [ ] Steam Deck BackPlate
+    - [ ] Logitech G27 Wheel FFB
+      - [ ] Fix FFB https://github.com/berarma/oversteer
 - HomeLab
   - [ ] Стенд https://anbik.ru/setevye-skafy/item-3092/
-  - [ ] Роутер
-  - [ ] NAS
+  - [x] Роутер
+  - [x] Проводной роутер для внутренней сети
+  - [x] NAS
   - [ ] ИБП
   - [ ] Патч-панель rj45
   - [ ] Патч-панель прочее (hdmi, usb, кнопки, oculink)
   - [ ] Сетевой фильтр
   - [ ] Разводка сети
-  - [ ] Мини ПК для виртуалок, которые не заводятся на NAS
+  - [x] Мини ПК для виртуалок, которые не заводятся на NAS
   - [ ] Может быть Micro-ATX/Mini-ITX ПК
   - [ ] Видеокарта для AI и прочего
-    - [ ] Подключение oculink для разных потребителей
+    - [x] Подключение oculink для разных потребителей
       - [ ] МиниПК
       - [ ] RaspberryPi
+    - [x] Внешняя видеокарта от Steam Deck
   - [ ] RaspberryPi/BananaPi
   - [ ] Nvidia jetson orin nano super developer kit https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/
 
